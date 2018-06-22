@@ -1,7 +1,10 @@
-header, nav {
-	color:#FF0000;	
+header {
+	color:#FFFFFF;	
 	background-color:#FD739C;
 }<
 h2,h1 {
 	font-family: arial;
+	 }
+p, li { font-size:22px;
+	line-height:34px;
 	 }
