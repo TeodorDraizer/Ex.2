@@ -1,10 +1,11 @@
-header {
+header,nav {
 	color:#FFFFFF;	
 	background-color:#FD739C;
+	font-family: Arial, Helvetica;
 }<
 h2,h1 {
-	font-family: arial;
+	font-family: Arial, Helvetica;
 	 }
-p, li { font-size:22px;
+body { font-size:22px;
 	line-height:34px;
 	 }
